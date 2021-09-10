@@ -1,0 +1,3 @@
+local Player = game.Players.LocalPlayer
+
+    game.Players[LocalPlayer]:Kick("You've been banned from the game for the reason of (Reason Here)")
