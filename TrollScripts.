@@ -1,3 +1,0 @@
-local Player = game.Players.LocalPlayer
-2	 
-3	game.Players[LocalPlayer]:Kick("You were Banned by Moderator for (REASON HERE)")
